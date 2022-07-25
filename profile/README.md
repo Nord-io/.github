@@ -1,8 +1,6 @@
 <p align="center">
-<img src="https://i.ibb.co/hMz6YWp/nord512.png" width="110" height="110"/>
+<img src="https://cdn.nordbot.app/assets/logos/dark%20background@3x.png" width="450"/>
 </p>
-
-<h1 align="center">Nord</h1>
 <h4 align="center">Multipurpose Discord Bot</h4>
 
 <p align="center">
