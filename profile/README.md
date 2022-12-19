@@ -19,7 +19,7 @@
 
 Too many bots to manage? Nord brings a no effort solution to tackling all your needs. Eliminate the hassle and bring Nord to your team!
 
-Setup your bot here: https://db.nordbot.app
+Setup your bot here: https://nordbot.app
 
 ## 📝 Features
 
