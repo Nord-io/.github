@@ -30,30 +30,26 @@ Setup your bot here: https://db.nordbot.app
 
 and much more...
 
-## 💻 Projects
+| 💻 Projects  | Language  | Framework  | Test  | Build  | Deploy  | Version  |  
+| --------------  | --------------  | --------------  | --------------  | --------------  | --------------  | --------------  |  
+| NORD  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="70" height="70" />  | badge  | badge  | badge  | version  |
+| NORD-REACT  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="70" height="70" /> | ![CircleCI](https://img.shields.io/circleci/build/github/Nord-io/NORD-REACT?label=test&logo=circleci&token=ac671f0820a15f5bc097db2219e8f20b766d6606)  | [![.github/workflows/build.yml](https://github.com/Nord-io/NORD-REACT/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/Nord-io/NORD-REACT/actions/workflows/build.yml)  | ![Custom badge](https://img.shields.io/endpoint?logo=nestjs&style=plastic&url=https%3A%2F%2Fnordbot.app%2Fapi%2Fhealth%2Fbadge%3Ftype%3Dsite)  | version |  
+| NORD-API  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" width="70" height="70" />  | badge  | badge  | badge  | version  |
 
 
 #### 1. Nord - Discord Bot
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/>
-
 Bot developed with [Node.js](https://nodejs.org/en/)
 
+
 #### 2. Nord - Dashboard (Frontend)
-
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 
 Frontend dashboard developed with [React.js](https://reactjs.org/)
 
 
 #### 3. Nord - API (Backend)
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/>
-
 Backend APIs developed with [Nest.js](https://nestjs.com/)
-
-
 
 
 ## 🙇 Support
