@@ -32,9 +32,9 @@ and much more...
 
 | 💻 Projects  | Language  | Framework  | Test  | Build  | Deploy  | Version  |  
 | --------------  | --------------  | --------------  | --------------  | --------------  | --------------  | --------------  |  
-| NORD  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="70" height="70" />  | badge  | badge  | badge  | version  |
-| NORD-REACT  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="70" height="70" /> | ![CircleCI](https://img.shields.io/circleci/build/github/Nord-io/NORD-REACT?label=test&logo=circleci&token=ac671f0820a15f5bc097db2219e8f20b766d6606)  | [![.github/workflows/build.yml](https://github.com/Nord-io/NORD-REACT/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/Nord-io/NORD-REACT/actions/workflows/build.yml)  | ![Custom badge](https://img.shields.io/endpoint?logo=nestjs&style=plastic&url=https%3A%2F%2Fnordbot.app%2Fapi%2Fhealth%2Fbadge%3Ftype%3Dsite)  | version |  
-| NORD-API  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" width="70" height="70" />  | badge  | badge  | badge  | version  |
+| NORD  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="70" height="70" />  | ![CircleCI][def-bot-test]  | [![.github/workflows/build.yml]([def-bot-build])](https://github.com/Nord-io/NORD/actions/workflows/build.yml)  | ![Custom badge][def-bot-deploy]  | <h4 id="bot-v">15.3.8</h4>  |
+| NORD-REACT  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="70" height="70" /> | ![CircleCI][def-dash-test]  | [![.github/workflows/build.yml](https://github.com/Nord-io/NORD-REACT/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/Nord-io/NORD-REACT/actions/workflows/build.yml)  | ![Custom badge][def-bot-deploy]  | <h4 id="dash-v">15.0.1</h4> |  
+| NORD-API  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" width="70" height="70" />  | ![CircleCI][def-api-test]  | [![.github/workflows/build.yml]([def-api-build])](https://github.com/Nord-io/NORD-API/actions/workflows/build.yml)  | ![Custom badge][def-bot-deploy]  | <h4 id="api-v">10.10.1</h4>  |
 
 
 #### 1. Nord - Discord Bot
@@ -56,7 +56,18 @@ Backend APIs developed with [Nest.js](https://nestjs.com/)
 
 Support our work through OpenCollective: https://opencollective.com/nordbot
 
+## 📝 License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)][def-license]
+
 
 
 <br/>
 <h5 align="center">Developed with ❤️</h5>
+
+
+[def-license]: https://opensource.org/licenses/MIT
+[def-bot-test]: https://img.shields.io/circleci/build/github/Nord-io/NORD/master?label=test&logo=circleci&style=plastic&token=6b9085dfe200ebfbca9431fcddc6e0c3ddb3403d
+[def-bot-deploy]: https://img.shields.io/endpoint?logo=nestjs&style=plastic&url=https%3A%2F%2Fnordbot.app%2Fapi%2Fhealth%2Fbadge%3Ftype%3Dsite
+[def-dash-test]: https://img.shields.io/circleci/build/github/Nord-io/NORD-REACT?label=test&logo=circleci&token=ac671f0820a15f5bc097db2219e8f20b766d6606
+[def-api-test]: https://img.shields.io/circleci/build/github/Nord-io/NORD-API/master?label=test&logo=circleci&style=plastic&token=3c124be10e7bc022b1566afea90f3cd2921ffa33
