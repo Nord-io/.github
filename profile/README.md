@@ -4,9 +4,9 @@
 <h4 align="center">Multipurpose Discord Bot</h4>
 
 <p align="center">
-<img src="https://img.shields.io/discord/966705760723669072?link=https%3A%2F%2Fdiscord.com%2Finvite%2Fnord"/>
+<img style=`border-radius: 100px` src="https://img.shields.io/badge/dynamic/json?color=blue&label=Discord&style=for-the-badge&query=approximate_member_count&url=https%3A%2F%2Fdiscordapp.com%2Fapi%2Finvites%2Fnord%3Fwith_counts%3Dtrue&logo=discord"/>
 <a href="https://twitter.com/NordBotOfficial" target="blank">
-<img src="https://img.shields.io/twitter/follow/NordBotOfficial?style=social" />
+<img src="https://img.shields.io/twitter/follow/NordBotOfficial?style=flat-square-lg" />
 </a>
 <a href="https://www.youtube.com/channel/UCm5ZnITh1JKjc-O-100Pm0w" target="blank">
 <img alt="YouTube Video Views" src="https://img.shields.io/youtube/views/XNNl_dCY4vI?style=social">
