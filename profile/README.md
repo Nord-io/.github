@@ -4,9 +4,7 @@
 <h4 align="center">Multipurpose Discord Bot</h4>
 
 <p align="center">
-<a href="https://discord.com/invite/nord" target="blank">
-<img src="https://img.shields.io/discord/966705760723669072?logo=discord&style=square" />
-</a>
+<img src="https://img.shields.io/discord/966705760723669072?link=https%3A%2F%2Fdiscord.com%2Finvite%2Fnord"/>
 <a href="https://twitter.com/NordBotOfficial" target="blank">
 <img src="https://img.shields.io/twitter/follow/NordBotOfficial?style=social" />
 </a>
