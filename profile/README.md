@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/twitter/follow/NordBotOfficial?style=for-the-badge" />
 </a>
 <a href="https://www.youtube.com/channel/UCm5ZnITh1JKjc-O-100Pm0w" target="blank">
-<img alt="YouTube Video Views" src="https://img.shields.io/youtube/views/XNNl_dCY4vI?style=social">
+<img alt="YouTube Video Views" src="https://img.shields.io/youtube/views/XNNl_dCY4vI?style=for-the-badge">
 </a>
 </p>
 
