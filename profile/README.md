@@ -3,11 +3,10 @@
 </p>
 <h4 align="center">Multipurpose Discord Bot</h4>
 
-<p align="center">
-<img style=`border-radius: 100px` src="https://img.shields.io/badge/dynamic/json?color=blue&label=Discord&style=for-the-badge&query=approximate_member_count&url=https%3A%2F%2Fdiscordapp.com%2Fapi%2Finvites%2Fnord%3Fwith_counts%3Dtrue&logo=discord"/>
-<img src="https://img.shields.io/twitter/follow/NordBotOfficial?style=for-the-badge" />
-<img alt="YouTube Video Views" src="https://img.shields.io/youtube/views/XNNl_dCY4vI?style=for-the-badge">
-</p>
+![Discord Members](https://img.shields.io/badge/dynamic/json?color=blue&label=Discord&style=for-the-badge&query=approximate_member_count&url=https%3A%2F%2Fdiscordapp.com%2Fapi%2Finvites%2Fnord%3Fwith_counts%3Dtrue&logo=discord)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/NordBotOfficial?style=for-the-badge)
+![YouTube Video Views](https://img.shields.io/youtube/views/XNNl_dCY4vI?style=for-the-badge) 
+
 
 ## One bot for everything
 
